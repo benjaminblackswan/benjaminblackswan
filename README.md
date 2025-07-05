@@ -1,4 +1,4 @@
-Hi my name is Ben, welcome to my Github page.
+Hi my name is Benjamin Blackswan, welcome to my Github page.
 
 [Click here to see my resume](https://benjaminblackswan.github.io)
 
