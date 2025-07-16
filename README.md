@@ -2,7 +2,9 @@ Hi my name is Benjamin Blackswan, welcome to my Github page.
 
 My resume here > [benjaminblackswan.github.io](https://benjaminblackswan.github.io)
 
-My gaming channel > [youtube.com/@ben_game](https://www.youtube.com/@ben_game/videos)
+My Stackoverflow profile > [stackoverflow.com/users/31029995](https://stackoverflow.com/users/31029995/benjamin-blackswan)
+
+My Gaming channel > [youtube.com/@ben_game](https://www.youtube.com/@ben_game/videos)
 
 # BTW, LONG LIVE THE EMPIRE!
 
