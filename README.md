@@ -1,3 +1,8 @@
-## Hi, i'm Benjamin Blackswan
+## 👋 Hi, i'm Benjamin Blackswan
 
-* I'm a data analyst turned database specialist from Canberra
+* A data analyst turned database specialist from Canberra
+* 🎮 [Casual Gamer](https://www.youtube.com/@ben_game)
+
+
+
+
