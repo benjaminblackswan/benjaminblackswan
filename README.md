@@ -14,7 +14,7 @@ Nietzschean Philosophy and <img width="17" height="17" alt="image" src="https://
 * <img width="42" height="15" alt="Untitled" src="https://github.com/user-attachments/assets/e17f29b3-7766-4a04-9e6f-22df99560c4c" /> [Specialist: Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)
 * <img width="50" height="15" alt="image" src="https://github.com/user-attachments/assets/6fc533ce-abb7-42e2-a77e-e6daedefd191" />[CAPM](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)
 
-### Current or Upcoming Goals or Projects
+### Current or Upcoming Goals and Projects
 * [Pass DP-600 Fabric Analytics Engineer Exam on or before 2025-Sep-01](https://github.com/users/benjaminblackswan/projects/9/views/4?pane=info)
 
 ### Hobbies
