@@ -3,7 +3,7 @@
 * Ex-ABS📈Data Analyst turned 🛢Database and <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/327867b8-3609-43d7-b7a4-bc992534730b" />
 ETL Administrator from 🇦🇺 Canberra, Australia.
 * Experiences in both Federal and State Government departments.
-* Self-disciplined, organised, proactive and strive to live every day with <img width="17" height="16" alt="image" src="https://github.com/user-attachments/assets/5cecd5e8-6c49-4c3e-a631-dc1ae6a756e7" />
+* Self-disciplined, well-organised and strive to live every day with <img width="17" height="16" alt="image" src="https://github.com/user-attachments/assets/5cecd5e8-6c49-4c3e-a631-dc1ae6a756e7" />
 Nietzschean Philosophy and <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/73aadbf6-a3fc-471c-9649-9db9b04abb8b" />Prussian Virtues.
 * 📝 [Check out my resume](https://benjaminblackswan.github.io/)
 
