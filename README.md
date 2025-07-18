@@ -4,6 +4,8 @@
 ETL Administrator from 🇦🇺 Canberra, Australia.
 * Experiences in both Federal and State Government departments.
 * Proactive, self-driven and organised.
+* Strive to live everyday with <img width="17" height="16" alt="image" src="https://github.com/user-attachments/assets/5cecd5e8-6c49-4c3e-a631-dc1ae6a756e7" />
+Nietzschean Philosophy and <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/73aadbf6-a3fc-471c-9649-9db9b04abb8b" />Prussian Virtues
 * 📝 [Check out my resume](https://benjaminblackswan.github.io/)
 
 ### Current Active Certifications
@@ -19,7 +21,5 @@ ETL Administrator from 🇦🇺 Canberra, Australia.
 ### Hobbies
 * 🎮 [Check out my Gaming channel](https://www.youtube.com/@ben_game/videos)
 * I speak 🇨🇳 & 🇯🇵 and learning 🇩🇪
-
-
 
 
