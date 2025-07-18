@@ -9,7 +9,7 @@ ETL Administrator from 🇦🇺 Canberra, Australia
 * Oracle Certified [Database SQL Assoc](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)
 
 
-### My upcoming goals or projects
+### My current goals or projects
 * [Pass DP-600 Fabric Analytics Engineer Exam on or before 2025-Sep-01](https://github.com/users/benjaminblackswan/projects/9/views/4?pane=info)
 
 
