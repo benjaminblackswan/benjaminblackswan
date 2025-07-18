@@ -10,7 +10,7 @@ ETL Administrator from 🇦🇺 Canberra, Australia
 
 
 ### My current short term goals
-* [Pass DP-600](https://github.com/users/benjaminblackswan/projects/9/views/4?pane=info)
+* [Pass DP-600 on 2025-09-01](https://github.com/users/benjaminblackswan/projects/9/views/4?pane=info)
 
 
 ### My hobbies
