@@ -13,7 +13,7 @@ ETL Administrator from 🇦🇺 Canberra, Australia.
 * <img width="50" height="15" alt="image" src="https://github.com/user-attachments/assets/6fc533ce-abb7-42e2-a77e-e6daedefd191" />[CAPM](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)
 
 ### Current or Upcoming Goals and Projects
-* **W2P-009**: [Pass DP-600 Fabric Analytics Engineer Exam on or before 2025-Sep-01](https://github.com/users/benjaminblackswan/projects/9/views/4?pane=info)
+* **W2P-009**: [Pass DP-600 Fabric Analytics Engineer Exam on or before 2025-Sep-01](https://github.com/users/benjaminblackswan/projects/9/views/4?pane=info&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=207375283&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Title)
 
 ### Hobbies
 * 🎮 [Check out my Gaming channel](https://www.youtube.com/@ben_game/videos)
