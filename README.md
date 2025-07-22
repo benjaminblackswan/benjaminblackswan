@@ -4,7 +4,6 @@
 ETL Administrator from 🇦🇺 Canberra, Australia.
 * 🏛 Experiences in both Federal and State Government departments.
 * 🕵🏻 NV1 Cleared
-* 📝 [Check out my resume](https://benjaminblackswan.github.io/)
 
 ### Current Active Certifications
 * <img width="69" height="14" alt="image" src="https://github.com/user-attachments/assets/e6b6814e-1efd-4e03-96f9-29db0f063567" /> <img width="16" height="15" alt="image" src="https://github.com/user-attachments/assets/9c71cdb3-364e-4ede-ac00-3b0d55dc9c2a" /> [Fabric Data Engineer Assoc](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488) | <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/7e8ccfe1-704e-4b38-a1d6-2ddc4b06b6e0" />
@@ -16,10 +15,4 @@ ETL Administrator from 🇦🇺 Canberra, Australia.
 ### Current or Upcoming Goals and Projects
 * [Continuous Learning Roadmap](https://github.com/users/benjaminblackswan/projects/2/views/1?sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=206960094)
 * W2P-009 - [Conquering DP-600](https://github.com/users/benjaminblackswan/projects/9/views/4?pane=info&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=207375283&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Title)
-
-### Hobbies
-* 🎮<img width="21" height="14" alt="image" src="https://github.com/user-attachments/assets/6add530b-5103-400d-9af1-426836080ec3" />[Check out my Gaming channel](https://www.youtube.com/@ben_game/videos)
-* <img width="21" height="14" alt="image" src="https://github.com/user-attachments/assets/6add530b-5103-400d-9af1-426836080ec3" />[Check out my career/tech channel](https://www.youtube.com/@benjaminblackswan/videos)
-* I speak 🇨🇳 & 🇯🇵 and learning 🇩🇪
-
 
