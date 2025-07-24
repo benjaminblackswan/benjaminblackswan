@@ -14,5 +14,16 @@ ETL Administrator from 🇦🇺 Canberra, Australia.
 
 ### Current or Upcoming Goals and Projects
 * [Continuous Learning Roadmap](https://github.com/users/benjaminblackswan/projects/2/views/1?sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=206960094)
-* W2P-009 - [Conquering DP-600](https://github.com/users/benjaminblackswan/projects/9/views/4?pane=info&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=207375283&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Title)
+* [WP9-Conquering DP-600](https://github.com/users/benjaminblackswan/projects/9/views/2?pane=info&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=207375283&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Title)
 
+
+### Hobbies
+
+
+* 🎮<img width="21" height="14" alt="image" src="https://github.com/user-attachments/assets/6add530b-5103-400d-9af1-426836080ec3" />[Check out my Gaming channel](https://www.youtube.com/@ben_game/videos)
+
+
+* <img width="21" height="14" alt="image" src="https://github.com/user-attachments/assets/6add530b-5103-400d-9af1-426836080ec3" />[Check out my career/tech channel](https://www.youtube.com/@benjaminblackswan/videos)
+
+
+* I speak 🇨🇳 & 🇯🇵 and learning 🇩🇪
