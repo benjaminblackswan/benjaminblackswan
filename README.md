@@ -14,7 +14,7 @@ ETL Administrator from 🇦🇺 Canberra, Australia.
 
 ### Current or Upcoming Goals and Projects
 * [Continuous Learning Roadmap](https://github.com/users/benjaminblackswan/projects/2/views/1?sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=206960094)
-* [WP9-Conquering DP-600](https://github.com/users/benjaminblackswan/projects/9/views/2?pane=info&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=207375283&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Title)
+* [WP9-Conquering DP-600](https://github.com/users/benjaminblackswan/projects/9/views/1?pane=info&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=207375283&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Title)
 
 
 ### Hobbies
