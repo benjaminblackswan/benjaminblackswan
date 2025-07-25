@@ -15,12 +15,12 @@ ETL Administrator from 🇦🇺 Canberra, Australia.
 ### Current and Upcoming Projects
 |Project ID |Project name|Status|Start Date|End Date|
 |---|---|---|---|---|
-|P9|Conquering DP-600|Active|2025-07-13|2025-09-06|
+|P2|[Continuous Learning Roadmap](https://github.com/users/benjaminblackswan/projects/2/views/1?sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=206960094)|On-going|N/A|N/A|
+|P9|[Conquering DP-600](https://github.com/users/benjaminblackswan/projects/9?pane=info)|Active|2025-07-13|2025-09-06|
 |P7|Conquering DP-300|Planned|2025-09-07|2025-12-13|
 |P10|Renew AWS CCP|Planned|2025-12-14|2025-12-27|
 
-[Continuous Learning Roadmap](https://github.com/users/benjaminblackswan/projects/2/views/1?sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=206960094)
-[WP9-Conquering DP-600](https://github.com/users/benjaminblackswan/projects/9/views/1?pane=info&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=207375283&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Title)
+
 
 
 ### Hobbies
