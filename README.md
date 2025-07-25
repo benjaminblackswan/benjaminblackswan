@@ -12,12 +12,12 @@ ETL Administrator from 🇦🇺 Canberra, Australia.
 * <img width="42" height="15" alt="Untitled" src="https://github.com/user-attachments/assets/e17f29b3-7766-4a04-9e6f-22df99560c4c" /> [Specialist: Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)
 * <img width="50" height="15" alt="image" src="https://github.com/user-attachments/assets/6fc533ce-abb7-42e2-a77e-e6daedefd191" />[CAPM](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)
 
-### Current or Upcoming Goals and Projects
-|Project ID |Project Code name|Project Insignia|Status|Start Date|End Date|
-|---|---|---|---|---|---|
-|P9|Silent Fabricator|<img width="57" height="126" alt="image" src="https://github.com/user-attachments/assets/de9f07ca-5908-431b-906b-ffb326a5dedb" />|Active|2025-07-13|2025-09-06|
-|P7|Deadlock Guardian|---|Planned|2025-09-07|2025-12-13|
-|P10|Lambda|---|Planned|2025-12-14|2025-12-27|
+### Current and Upcoming Projects
+|Project ID |Project name|Status|Start Date|End Date|
+|---|---|---|---|---|
+|P9|Conquering DP-600|Active|2025-07-13|2025-09-06|
+|P7|Conquering DP-300|Planned|2025-09-07|2025-12-13|
+|P10|Renew AWS CCP|Planned|2025-12-14|2025-12-27|
 
 [Continuous Learning Roadmap](https://github.com/users/benjaminblackswan/projects/2/views/1?sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=206960094)
 [WP9-Conquering DP-600](https://github.com/users/benjaminblackswan/projects/9/views/1?pane=info&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=207375283&sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=Title)
