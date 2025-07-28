@@ -12,6 +12,8 @@ ETL Administrator from 🇦🇺 Canberra, Australia.
 * <img width="42" height="15" alt="Untitled" src="https://github.com/user-attachments/assets/e17f29b3-7766-4a04-9e6f-22df99560c4c" /> [SAS Certified Specialist: Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)
 * <img width="50" height="15" alt="image" src="https://github.com/user-attachments/assets/6fc533ce-abb7-42e2-a77e-e6daedefd191" />[Certified Associate in Project Management](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)
 * <img width="25" height="16" alt="image" src="https://github.com/user-attachments/assets/bd5c1712-a3d5-4f12-b4fc-0eed9501b628" /> [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)
+* <img width="90" height="85" alt="image" src="https://github.com/user-attachments/assets/88a6089a-4939-447f-9dd9-48da406b0b8e" /> [Databricks Fundamentals](https://credentials.databricks.com/51a82c33-0e4e-461e-8ed8-98a491a0ed34#acc.XoNmS7QR)
+
 
 
 ### Current and Upcoming Projects
