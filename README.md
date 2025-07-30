@@ -17,8 +17,8 @@ ETL Administrator for ACT Health/Digital Canberra from 🇦🇺 Canberra, Austra
 
 
 ### Current and Upcoming Projects
-|Project ID |Project name|Status|Number of Sprints|Start Date|End Date|
-|---|---|---|---|---|---|
+|Project ID |Project name|Status|Number of<br> Sprints|Start Date|End Date|
+|:---|:---|:---|:---|:---|:---|
 |P2|[Continuous Learning Roadmap](https://github.com/users/benjaminblackswan/projects/2/views/1?sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=206960094)|On-going|N/A|N/A|
 |P9|[Conquering DP-600](https://github.com/users/benjaminblackswan/projects/9/views/2?pane=info)|Active|4|2025-07-13|2025-09-06|
 |P7|Conquering DP-300|Planned|7|2025-09-07|2025-12-13|
