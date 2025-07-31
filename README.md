@@ -1,5 +1,5 @@
-## 👋 Hi, i'm Benjamin Blackswan
-![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=grey)
+## 👋 Hi, i'm Benjamin Blackswan ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=grey)
+
 
 * Ex-ABS 📈 Data Analyst turned 🛢 Database and <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/327867b8-3609-43d7-b7a4-bc992534730b" />
 ETL Administrator for ACT Health/Digital Canberra from 🇦🇺 Canberra, Australia.
