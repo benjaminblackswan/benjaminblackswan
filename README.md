@@ -24,17 +24,3 @@ ETL Administrator for ACT Health/Digital Canberra from 🇦🇺 Canberra, Austra
 |P9|[Conquering DP-600](https://github.com/users/benjaminblackswan/projects/9/views/2?pane=info)|Active|4|2025-07-13|2025-09-06|
 |P7|Conquering DP-300|Planned|7|2025-09-07|2025-12-13|
 |P10|Renew AWS CCP|Planned|1|2025-12-14|2025-12-27|
-
-
-
-
-### Hobbies
-
-
-* 🎮<img width="21" height="14" alt="image" src="https://github.com/user-attachments/assets/6add530b-5103-400d-9af1-426836080ec3" />[Check out my Gaming channel](https://www.youtube.com/@ben_game/videos)
-
-
-* <img width="21" height="14" alt="image" src="https://github.com/user-attachments/assets/6add530b-5103-400d-9af1-426836080ec3" />[Check out my career/tech channel](https://www.youtube.com/@benjaminblackswan/videos)
-
-
-* I speak 🇨🇳 & 🇯🇵 and learning 🇩🇪
