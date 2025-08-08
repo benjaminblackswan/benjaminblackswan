@@ -16,7 +16,7 @@ ETL Administrator for ACT Health/Digital Canberra from 🇦🇺 Canberra, Austra
 * <img width="18" height="56" alt="image" src="https://github.com/user-attachments/assets/6d4309d0-e8a1-4d7c-b3d8-d2e6c160a7d9" /> [Certified Associate in Project Management](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)
 
 
-
+<!---
 ### Current and Upcoming Projects
 |Project<br>ID |Project Name|Status|Number of<br>Sprints|Start Date|End Date|
 |:---|:---|:---|:---|:---|:---|
@@ -24,3 +24,4 @@ ETL Administrator for ACT Health/Digital Canberra from 🇦🇺 Canberra, Austra
 |P9|[Conquering DP-600](https://github.com/users/benjaminblackswan/projects/9/views/2?pane=info)|Active|4|2025-07-13|2025-09-06|
 |P7|Conquering DP-300|Planned|7|2025-09-07|2025-12-13|
 |P10|Renew AWS CCP|Planned|1|2025-12-14|2025-12-27|
+-->
