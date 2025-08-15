@@ -1,7 +1,8 @@
 ## 👋 Hi, i'm Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
 
 
-[<img width="85" height="42" alt="image" src="https://github.com/user-attachments/assets/d1c1aed4-9ba0-449b-b6f0-fd29d73859d8" />](https://peerlist.io/benja/resume)         [<img width="89" height="29" alt="image" src="https://github.com/user-attachments/assets/29b51b12-86e4-4f77-b4c2-8ea9ce6fc704" />](https://learn.microsoft.com/en-us/users/ben/)
+[<img width="85" height="42" alt="image" src="https://github.com/user-attachments/assets/d1c1aed4-9ba0-449b-b6f0-fd29d73859d8" />](https://peerlist.io/benja/resume)     [<img width="83" height="32" alt="image" src="https://github.com/user-attachments/assets/6d42e712-7fbb-4db8-9af7-4cdb4f071d79" />
+](https://learn.microsoft.com/en-us/users/ben/)
 
             
 
