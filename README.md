@@ -1,14 +1,9 @@
 ## 👋 Hi, i'm Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
 
 
-[<img width="85" height="42" alt="image" src="https://github.com/user-attachments/assets/d1c1aed4-9ba0-449b-b6f0-fd29d73859d8" />](https://peerlist.io/benja/resume)     [<img width="83" height="32" alt="image" src="https://github.com/user-attachments/assets/6d42e712-7fbb-4db8-9af7-4cdb4f071d79" />
-](https://learn.microsoft.com/en-us/users/ben/)
+[<img width="85" height="42" alt="image" src="https://github.com/user-attachments/assets/d1c1aed4-9ba0-449b-b6f0-fd29d73859d8" />](https://peerlist.io/benja/resume)
 
             
-
-
-
-* [My resume](https://benjaminblackswan.github.io/)
 * Ex-ABS 📈 Data Analyst turned 🛢 Database and <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/327867b8-3609-43d7-b7a4-bc992534730b" />
 ETL Administrator for ACT Health/Digital Canberra from 🇦🇺 Canberra, Australia.
 * 🏛 Experiences in both Federal and State Government departments.
