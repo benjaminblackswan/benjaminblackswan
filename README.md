@@ -2,7 +2,6 @@
 
 
 [<img width="130" height="42" alt="image" src="https://github.com/user-attachments/assets/d1c1aed4-9ba0-449b-b6f0-fd29d73859d8" />](https://peerlist.io/benja/resume)
-[<img width="156" height="54" alt="image" src="https://github.com/user-attachments/assets/c31b4c69-9d8f-43ce-bd01-ec159019b9dc" />](https://app.focusmate.com/user/benjaminblackswan)
 
 
             
@@ -30,3 +29,8 @@ ETL Administrator for ACT Health/Digital Canberra from 🇦🇺 Canberra, Austra
 |P7|Conquering DP-300|Planned|7|2025-09-07|2025-12-13|
 |P10|Renew AWS CCP|Planned|1|2025-12-14|2025-12-27|
 -->
+
+
+### Social Media
+
+[<img width="96" height="54" alt="image" src="https://github.com/user-attachments/assets/c31b4c69-9d8f-43ce-bd01-ec159019b9dc" />](https://app.focusmate.com/user/benjaminblackswan) 
