@@ -1,7 +1,9 @@
 ## 👋 Hi, i'm Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
 
 
-[<img width="150" height="42" alt="image" src="https://github.com/user-attachments/assets/d1c1aed4-9ba0-449b-b6f0-fd29d73859d8" />](https://peerlist.io/benja/resume)
+[<img width="130" height="42" alt="image" src="https://github.com/user-attachments/assets/d1c1aed4-9ba0-449b-b6f0-fd29d73859d8" />](https://peerlist.io/benja/resume)
+[<img width="156" height="54" alt="image" src="https://github.com/user-attachments/assets/c31b4c69-9d8f-43ce-bd01-ec159019b9dc" />](https://app.focusmate.com/user/benjaminblackswan)
+
 
             
 * Ex-ABS 📈 Data Analyst turned 🛢 Database and <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/327867b8-3609-43d7-b7a4-bc992534730b" />
