@@ -16,8 +16,11 @@ ETL Administrator for ACT Health/Digital Canberra from 🇦🇺 Canberra, Austra
 * <img width="65" height="11" alt="image" src="https://github.com/user-attachments/assets/f833a1d8-7c49-423b-aa71-9933af2421d4" /> [Oracle Database SQL Assoc](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)
 * <img width="42" height="15" alt="Untitled" src="https://github.com/user-attachments/assets/e17f29b3-7766-4a04-9e6f-22df99560c4c" /> [SAS Certified Specialist: Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)
 * <img width="25" height="16" alt="image" src="https://github.com/user-attachments/assets/bd5c1712-a3d5-4f12-b4fc-0eed9501b628" /> [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)
+* <img width="38" height="76" alt="image" src="https://github.com/user-attachments/assets/7a9596cf-8774-42dd-94f2-dafbc885ed4a" /> [Epic Certified Cogito Systems Administrator](https://i.imgur.com/XfkR4xy.jpeg)
 * <img width="18" height="80" alt="image" src="https://github.com/user-attachments/assets/a882566b-d00a-4a3b-91ab-e1345d40a862" /> [Databricks Fundamentals](https://credentials.databricks.com/51a82c33-0e4e-461e-8ed8-98a491a0ed34#acc.XoNmS7QR)
 * <img width="18" height="56" alt="image" src="https://github.com/user-attachments/assets/6d4309d0-e8a1-4d7c-b3d8-d2e6c160a7d9" /> [Certified Associate in Project Management](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)
+* <img width="21" height="157" alt="image" src="https://github.com/user-attachments/assets/dc589672-3d95-434f-8aa2-259614246d07" /> [CFI Certified Financial Modeling & Valuation Analyst (FMVA®)](https://credentials.corporatefinanceinstitute.com/f32d8e09-8a91-4599-86b6-539622bdee03#acc.LvXrYoE7)
+
 
 
 <!---
