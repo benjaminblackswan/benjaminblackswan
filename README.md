@@ -36,4 +36,6 @@ ETL Administrator for ACT Health/Digital Canberra from 🇦🇺 Canberra, Austra
 
 ### Social Media
 
-[<img width="96" height="54" alt="image" src="https://github.com/user-attachments/assets/c31b4c69-9d8f-43ce-bd01-ec159019b9dc" />](https://app.focusmate.com/user/benjaminblackswan) 
+[<img width="96" height="54" alt="image" src="https://github.com/user-attachments/assets/c31b4c69-9d8f-43ce-bd01-ec159019b9dc" />](https://app.focusmate.com/user/benjaminblackswan) [<img width="103" height="28" alt="image" src="https://github.com/user-attachments/assets/48a22589-ab40-4b7a-942f-48c03cbce5ed" />](https://www.strava.com/athletes/93130346)
+
+
