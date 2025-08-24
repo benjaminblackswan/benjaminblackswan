@@ -1,4 +1,4 @@
-## 👋 Hi, i'm Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
+## 👋 Hi, i'm Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue) v2
 
 
 [<img width="130" height="42" alt="image" src="https://github.com/user-attachments/assets/d1c1aed4-9ba0-449b-b6f0-fd29d73859d8" />](https://peerlist.io/benja/resume)
