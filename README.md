@@ -60,9 +60,9 @@ ACCC | Apr 2022 – Jun 2022
 |Microsoft|[Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488)|DP-700|2025-06-22|2026-06-23|
 |Microsoft|[Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|PL-300|2024-06-09|2026-06-09|
 |Microsoft|[Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c744207c72b92f5)|AI-900|2024-06-19|Does not expire|
-|Microsoft|[Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c3d0edb35c96bcd)|DP-900|2024-06-09|Does not expire|
-|Microsoft|[Azure Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/245d00390241775d)|AZ-900|2024-06-09|Does not expire|
-|Microsoft|[Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/6d9bde1a78ea6758)|PL-900|2024-06-09|Does not expire|
+|Microsoft|[Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c3d0edb35c96bcd)|DP-900|2023-07-15|Does not expire|
+|Microsoft|[Azure Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/245d00390241775d)|AZ-900|2024-01-21|Does not expire|
+|Microsoft|[Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/6d9bde1a78ea6758)|PL-900|2024-03-30|Does not expire|
 |Oracle|[Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)|1Z0-071|2023-12-29|Does Not Expire|
 |SAS Institute|[Certified Specialist: Base Programming Using SAS 9.4](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)|A00-231|2022-12-06|Does Not Expire|
 |Databricks|[Databricks Fundamentals](https://credentials.databricks.com/51a82c33-0e4e-461e-8ed8-98a491a0ed34#acc.XoNmS7QR)|N/A|2025-03-22|2026-03-22|
