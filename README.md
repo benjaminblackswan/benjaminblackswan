@@ -1,8 +1,4 @@
-## 👋 Hi, i'm Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
-
-
-[<img width="130" height="42" alt="image" src="https://github.com/user-attachments/assets/d1c1aed4-9ba0-449b-b6f0-fd29d73859d8" />](https://peerlist.io/benja/resume)
-
+## 👋 Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
 
             
 * Ex-ABS 📈 Data Analyst turned 🛢 Database and <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/327867b8-3609-43d7-b7a4-bc992534730b" />
@@ -10,32 +6,83 @@ ETL Administrator for ACT Health/Digital Canberra from 🇦🇺 Canberra, Austra
 * 🏛 Experiences in both Federal and State Government departments.
 * 🕵🏻 NV1 Cleared
 
-### Current Active Certifications
-* <img width="69" height="14" alt="image" src="https://github.com/user-attachments/assets/e6b6814e-1efd-4e03-96f9-29db0f063567" /> <img width="16" height="15" alt="image" src="https://github.com/user-attachments/assets/9c71cdb3-364e-4ede-ac00-3b0d55dc9c2a" /> [Fabric Data Engineer Assoc](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488) | <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/7e8ccfe1-704e-4b38-a1d6-2ddc4b06b6e0" />
-[Power BI Data Analyst Assoc](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)
-* <img width="65" height="11" alt="image" src="https://github.com/user-attachments/assets/f833a1d8-7c49-423b-aa71-9933af2421d4" /> [Oracle Database SQL Assoc](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)
-* <img width="42" height="15" alt="Untitled" src="https://github.com/user-attachments/assets/e17f29b3-7766-4a04-9e6f-22df99560c4c" /> [SAS Certified Specialist: Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)
-* <img width="25" height="16" alt="image" src="https://github.com/user-attachments/assets/bd5c1712-a3d5-4f12-b4fc-0eed9501b628" /> [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)
-* <img width="38" height="76" alt="image" src="https://github.com/user-attachments/assets/7a9596cf-8774-42dd-94f2-dafbc885ed4a" /> [Epic Certified Cogito Systems Administrator](https://i.imgur.com/XfkR4xy.jpeg)
-* <img width="18" height="80" alt="image" src="https://github.com/user-attachments/assets/a882566b-d00a-4a3b-91ab-e1345d40a862" /> [Databricks Fundamentals](https://credentials.databricks.com/51a82c33-0e4e-461e-8ed8-98a491a0ed34#acc.XoNmS7QR)
-* <img width="18" height="56" alt="image" src="https://github.com/user-attachments/assets/6d4309d0-e8a1-4d7c-b3d8-d2e6c160a7d9" /> [Certified Associate in Project Management](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)
-* <img width="21" height="157" alt="image" src="https://github.com/user-attachments/assets/dc589672-3d95-434f-8aa2-259614246d07" /> [CFI Certified Financial Modeling & Valuation Analyst (FMVA®)](https://credentials.corporatefinanceinstitute.com/f32d8e09-8a91-4599-86b6-539622bdee03#acc.LvXrYoE7)
+
+## Experiences
+
+####  **SQL Server Database Specialist** 
+Digital Canberra (Previously ACT Health) | Sep 2024 - Present
+* Maintaining Cogito ETL and DBA processes for EPIC Systems
+* Maintaining and monitoring Epic Systems Cogito Platform ETL processes from operational databases to DWH.
+* Maintaining the health of SQL Server databases.
+* Scripting, running and troubleshooting stored procedures using T-SQL.
+* Maintaining SQL Server ad-hoc database backups and restoring them using SSMS.
+* Installed SQL Server instances on remote servers through virtual machines.
+* Automating routine maintenance tasks using SQL Agent jobs.
+* Assisting the ACT Health’s Data Capability team with their migration to Microsoft Fabric, including hands-on experience using data factory, Lakehouse and data warehouse.
+* Liasing, building and maintaining strong relationships with various internal (analysts and directors), vendors (Epic and Microsoft), consultants (NTT Data) and customers (Canberra Health Services) 
+* Using Jira Software and creating Jira dashboards to monitor tickets and monitor team workloads.
+* Using SharePoint, OneNote and Confluence to create documentations.
+
+#### Senior Data Analyst
+ACT Community Services Directorate | Apr 2023 – Sep 2024
+* Built pipeline to extract data from Datalake into Power BI for visualization using Dataflows and Power Query.
+* Maintained dataflows, semantic models and workspaces in Power BI Service.
+* Automated weekly BAU tasks using Excel and Python.
+* Produced data used for annual reports for various stakeholders, both internal and external.
+* Wrote complex SQL queries in Oracle Databases and Apache Drill Datalake.
+* Used technologies and languages include Oracle SQL, T-SQL, DAX, Power Query and M, Python, SAP BusinessObjects.
+* Liaised with various stakeholders both internal and external.
+* Led Azure DevOps board for sprint planning.
 
 
-
-<!---
-### Current and Upcoming Projects
-|Project<br>ID |Project Name|Status|Number of<br>Sprints|Start Date|End Date|
-|:---|:---|:---|:---|:---|:---|
-|P2|[Continuous Learning Roadmap](https://github.com/users/benjaminblackswan/projects/2/views/1?sortedBy%5Bdirection%5D=asc&sortedBy%5BcolumnId%5D=206960094)|On-going|∞|N/A|N/A|
-|P9|[Conquering DP-600](https://github.com/users/benjaminblackswan/projects/9/views/2?pane=info)|Active|4|2025-07-13|2025-09-06|
-|P7|Conquering DP-300|Planned|7|2025-09-07|2025-12-13|
-|P10|Renew AWS CCP|Planned|1|2025-12-14|2025-12-27|
--->
+#### Data Analyst
+Australian Bureau of Statistics | Aug 2022 – Apr 2023
+* Tested SAS codes and pipeline as part of the ABS’s Big Data Timely Insights upgrade.
+* Contributed to the production of Weekly Payroll Jobs and Wages statistical outputs.
+* Analysed movements in weekly payroll jobs and wages.
+* Produced visualisation to explain the data movement.
+* Used SAS programming, AWS cloud, VBA, SQL and Python.
 
 
-### Social Media
+#### Data Entry
+ACCC | Apr 2022 – Jun 2022
+* Remediated datasets in Microsoft Dynamics for consumer product recalls
 
+## Education
+* [Charles Sturt University, Graduate Certificate in Applied Data Science](https://www.myequals.net/sharelink/b685bd77-3baa-4aec-be40-16c5920776b3/d8b75971-d999-43f9-a4dd-11b531ba1c8b), 2022 GPA 6.5 out of 7
+* ANU, Graduate Certificate in Finance and Actuarial Statistics, 2017
+* Macquarie University, Bachelor of Applied Finance, 2016
+
+## Certifications
+
+|Organisation|Certification Name|Exam Code|Date Awarded|Date of Expiration|
+|-------------|------------|------------|------------|------------|
+|Microsoft|[Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488)|DP-700|2025-06-22|2026-06-23|
+|Microsoft|[Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|PL-300|2024-06-09|2026-06-09|
+|Microsoft|[Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c744207c72b92f5)|AI-900|2024-06-19|Does not expire|
+|Microsoft|[Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c3d0edb35c96bcd)|DP-900|2024-06-09|Does not expire|
+|Microsoft|[Azure Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/245d00390241775d)|AZ-900|2024-06-09|Does not expire|
+|Microsoft|[Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/6d9bde1a78ea6758)|PL-900|2024-06-09|Does not expire|
+|Oracle|[Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)|1Z0-071|2023-12-29|Does Not Expire|
+|SAS Institute|[Certified Specialist: Base Programming Using SAS 9.4](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)|A00-231|2022-12-06|Does Not Expire|
+|Databricks|[Databricks Fundamentals](https://credentials.databricks.com/51a82c33-0e4e-461e-8ed8-98a491a0ed34#acc.XoNmS7QR)|N/A|2025-03-22|2026-03-22|
+|AWS|[Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|CLF-C02|2023-01-02|2026-01-01|
+|Epic Systems|[Cogito Systems Administrator](https://i.imgur.com/XfkR4xy.jpeg)|COG380|2024-12-01|Does not expire|
+|PMI|[Certified Associate in Project Management](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)|CAPM|2023-07-02|2026-07-02|
+|CFI|[Financial Modeling & Valuation Analyst (FMVA) designation](https://credentials.corporatefinanceinstitute.com/f32d8e09-8a91-4599-86b6-539622bdee03#acc.5IdE6FTQ)|N/A|2020-08-31|Does not expire|
+
+**Finance**
+* CFA Passed Level 2 in 2019
+* Chartered Alternative Investment Analyst Passed CAIA level I
+
+	
+## Skills
+Programming Language: T-SQL | Oracle SQL | Python | SAS <br>
+Human Languages: Chinese (汉语水平考试六级）| Japanese (日本語能力試験N3)
+
+
+## Social Media
+[<img width="105" height="42" alt="image" src="https://github.com/user-attachments/assets/d1c1aed4-9ba0-449b-b6f0-fd29d73859d8" />](https://peerlist.io/benja/resume)
 [<img width="96" height="54" alt="image" src="https://github.com/user-attachments/assets/c31b4c69-9d8f-43ce-bd01-ec159019b9dc" />](https://app.focusmate.com/user/benjaminblackswan) [<img width="103" height="28" alt="image" src="https://github.com/user-attachments/assets/48a22589-ab40-4b7a-942f-48c03cbce5ed" />](https://www.strava.com/athletes/93130346)[<img width="38" height="154" alt="image" src="https://github.com/user-attachments/assets/465297f6-c78e-4ece-b377-b1e15fa0e111" />](https://x.com/benblackswan)[<img width="71" height="143" alt="image" src="https://github.com/user-attachments/assets/0c0b9254-c8a8-4446-93a9-db9a32b65354" />](https://leetcode.com/u/benjaminblackswan/)
 
 
