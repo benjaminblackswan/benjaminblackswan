@@ -70,11 +70,11 @@ ACCC | Apr 2022 – Jun 2022
 |-------------|------------|------------|------------|------------|
 |Oracle|[Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)|1Z0-071|2023-12-29|Does Not Expire|
 |SAS Institute|[Certified Specialist Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)|A00-231|2022-12-06|Does Not Expire|
-|Databricks|[Databricks Fundamentals](https://credentials.databricks.com/51a82c33-0e4e-461e-8ed8-98a491a0ed34#acc.XoNmS7QR)|N/A|2025-03-22|2026-03-22|
+|Databricks|[Databricks Fundamentals](https://credentials.databricks.com/51a82c33-0e4e-461e-8ed8-98a491a0ed34#acc.XoNmS7QR)||2025-03-22|2026-03-22|
 |AWS|[Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|CLF-C02|2023-01-02|2026-01-01|
 |Epic Systems|[Cogito Systems Administrator](https://i.imgur.com/XfkR4xy.jpeg)|COG380|2024-12-12|Does not expire|
-|PMI|[Certified Associate in Project Management](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)|CAPM|2023-07-02|2026-07-02|
-|CFI|[Financial Modeling & Valuation Analyst (FMVA) designation](https://credentials.corporatefinanceinstitute.com/f32d8e09-8a91-4599-86b6-539622bdee03#acc.5IdE6FTQ)|N/A|2020-08-31|Does not expire|
+|PMI|[Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)||2023-07-02|2026-07-02|
+|CFI|[Financial Modeling & Valuation Analyst (FMVA)](https://credentials.corporatefinanceinstitute.com/f32d8e09-8a91-4599-86b6-539622bdee03#acc.5IdE6FTQ)||2020-08-31|Does not expire|
 
 **Finance**
 * CFA Passed Level 2 in 2019
