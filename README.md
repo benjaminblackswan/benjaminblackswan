@@ -44,7 +44,7 @@ Australian Bureau of Statistics | Aug 2022 – Apr 2023
 * Used SAS programming, AWS cloud, VBA, SQL and Python.
 
 
-#### Data Entry
+#### Data Entry Clert
 ACCC | Apr 2022 – Jun 2022
 * Remediated datasets in Microsoft Dynamics for consumer product recalls
 
@@ -53,7 +53,7 @@ ACCC | Apr 2022 – Jun 2022
 * ANU, Graduate Certificate in Finance and Actuarial Statistics, 2017
 * Macquarie University, Bachelor of Applied Finance, 2016
 
-## Certifications
+## Active Certifications
 
 |Organisation|Certification Name|Exam Code|Date Awarded|Date of Expiration|
 |-------------|------------|------------|------------|------------|
