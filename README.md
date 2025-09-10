@@ -82,7 +82,7 @@ ACCC | Apr 2022 – Jun 2022
 
 	
 ## Skills
-Programming Language: T-SQL | Oracle SQL | Python | SAS <br>
+Programming Language: T-SQL | Oracle SQL | Python | SAS | DAX | M |<br>
 Human Languages: Chinese (汉语水平考试六级）| Japanese (日本語能力試験N3)
 
 
