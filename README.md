@@ -46,7 +46,7 @@ Australian Bureau of Statistics | Aug 2022 – Apr 2023
 
 #### Data Entry Clerk
 ACCC | Apr 2022 – Jun 2022
-* Remediated datasets in Microsoft Dynamics for consumer product recalls
+* Remediated datasets in Microsoft Dynamics for consumer product recalls.
 
 ## Education
 * [Charles Sturt University, Graduate Certificate in Applied Data Science](https://www.myequals.net/sharelink/b685bd77-3baa-4aec-be40-16c5920776b3/d8b75971-d999-43f9-a4dd-11b531ba1c8b), 2022 GPA 6.5 out of 7
@@ -55,10 +55,10 @@ ACCC | Apr 2022 – Jun 2022
 
 ## Current Active Certifications
 ### Microsoft
-|Organisation|Certification Name|Exam Code|Date Awarded|Date of Expiration|
+|Issuing Organisation|Credential Name and Link to my Certification|Exam Code|Date Awarded|Date of Expiration|
 |-------------|------------|------------|------------|------------|
-|Microsoft|[Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488)|DP-700|2025-06-22|2026-06-23|
-|Microsoft|[Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|PL-300|2024-06-09|2026-06-09|
+|Microsoft|[Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488)|[DP-700](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification)|2025-06-22|2026-06-23|
+|Microsoft|[Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|[PL-300](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)|2024-06-09|2026-06-09|
 |Microsoft|[Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/6d9bde1a78ea6758)|PL-900|2024-03-30|Does not expire|
 |Microsoft|[Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c744207c72b92f5)|AI-900|2024-06-19|Does not expire|
 |Microsoft|[Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c3d0edb35c96bcd)|DP-900|2023-07-15|Does not expire|
@@ -66,12 +66,12 @@ ACCC | Apr 2022 – Jun 2022
 
 
 ### Other
-|Organisation|Certification Name|Exam Code|Date Awarded|Date of Expiration|
+|Issuing Organisation|Credential Name and Link to my Certification|Exam Code|Date Awarded|Date of Expiration|
 |-------------|------------|------------|------------|------------|
-|Oracle|[Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)|1Z0-071|2023-12-29|Does Not Expire|
-|SAS Institute|[Certified Specialist Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)|A00-231|2022-12-06|Does Not Expire|
+|Oracle Corporation|[Oracle Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)|[1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)|2023-12-29|Does Not Expire|
+|SAS Institute|[Certified Specialist Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)|[A00-231](https://www.sas.com/en_gb/certification/credentials/foundation-tools/base-programming-specialist.html)|2022-12-06|Does Not Expire|
 |Databricks|[Databricks Fundamentals](https://credentials.databricks.com/51a82c33-0e4e-461e-8ed8-98a491a0ed34#acc.XoNmS7QR)||2025-03-22|2026-03-22|
-|AWS|[Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|CLF-C02|2023-01-02|2026-01-01|
+|AWS|[Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|[CLF-C02](https://aws.amazon.com/certification/certified-cloud-practitioner/)|2023-01-02|2026-01-01|
 |Epic Systems|[Cogito Systems Administrator](https://i.imgur.com/XfkR4xy.jpeg)|COG380|2024-12-12|Does not expire|
 |PMI|[Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)||2023-07-02|2026-07-02|
 |CFI|[Financial Modeling & Valuation Analyst (FMVA)](https://credentials.corporatefinanceinstitute.com/f32d8e09-8a91-4599-86b6-539622bdee03#acc.5IdE6FTQ)||2020-08-31|Does not expire|
