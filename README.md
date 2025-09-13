@@ -9,7 +9,7 @@ ETL Administrator for ACT Health/Digital Canberra from 🇦🇺 Canberra, Austra
 
 ## Experiences
 
-####  **SQL Server Database Specialist** 
+###  SQL Server Database Specialist (ASO6)
 Digital Canberra (Previously ACT Health) | Sep 2024 - Present
 * Maintaining Cogito ETL and DBA processes for EPIC Systems
 * Maintaining and monitoring Epic Systems Cogito Platform ETL processes from operational databases to DWH.
@@ -23,7 +23,7 @@ Digital Canberra (Previously ACT Health) | Sep 2024 - Present
 * Using Jira Software and creating Jira dashboards to monitor tickets and monitor team workloads.
 * Using SharePoint, OneNote and Confluence to create documentations.
 
-#### Senior Data Analyst
+### Senior Data Analyst (ASO5)
 ACT Community Services Directorate | Apr 2023 – Sep 2024
 * Built pipeline to extract data from Datalake into Power BI for visualization using Dataflows and Power Query.
 * Maintained dataflows, semantic models and workspaces in Power BI Service.
@@ -35,7 +35,7 @@ ACT Community Services Directorate | Apr 2023 – Sep 2024
 * Led Azure DevOps board for sprint planning.
 
 
-#### Data Analyst
+### Data Analyst (APS4)
 Australian Bureau of Statistics | Aug 2022 – Apr 2023
 * Tested SAS codes and pipeline as part of the ABS’s Big Data Timely Insights upgrade.
 * Contributed to the production of Weekly Payroll Jobs and Wages statistical outputs.
@@ -44,7 +44,7 @@ Australian Bureau of Statistics | Aug 2022 – Apr 2023
 * Used SAS programming, AWS cloud, VBA, SQL and Python.
 
 
-#### Data Entry Clerk
+### Data Entry Clerk (APS3)
 ACCC | Apr 2022 – Jun 2022
 * Remediated datasets in Microsoft Dynamics for consumer product recalls.
 
