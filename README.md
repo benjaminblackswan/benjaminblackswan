@@ -55,7 +55,7 @@ ACCC | Apr 2022 – Jun 2022
 
 ## Current Active Certifications
 ### Microsoft
-|Issuing Organisation|Credential Name and Link to my Certification|Exam Code|Date Awarded|Date of Expiration|
+|Issuing Organisation|Credential Name and Link|Exam Code|Date Awarded|Date of Expiration|
 |-------------|------------|------------|------------|------------|
 |Microsoft|[Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488)|[DP-700](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification)|2025-06-22|2026-06-23|
 |Microsoft|[Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|[PL-300](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)|2024-06-09|2026-06-09|
@@ -66,7 +66,7 @@ ACCC | Apr 2022 – Jun 2022
 
 
 ### Other
-|Issuing Organisation|Credential Name and Link to my Certification|Exam Code|Date Awarded|Date of Expiration|
+|Issuing Organisation|Credential Name and Link|Exam Code|Date Awarded|Date of Expiration|
 |-------------|------------|------------|------------|------------|
 |Oracle Corporation|[Oracle Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)|[1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)|2023-12-29|Does Not Expire|
 |SAS Institute|[Certified Specialist Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)|[A00-231](https://www.sas.com/en_gb/certification/credentials/foundation-tools/base-programming-specialist.html)|2022-12-06|Does Not Expire|
