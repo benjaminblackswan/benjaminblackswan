@@ -39,7 +39,8 @@ ACT Community Services Directorate | Apr 2023 – Sep 2024
 #### Data Analyst | APS4
 Australian Bureau of Statistics | Aug 2022 – Apr 2023
 * Contributed to the production of Weekly Payroll Jobs and Wages statistical outputs.
-* Tested SAS codes and data pipelines as part of the ABS’s Big Data Timely Insights (BDTI) Phase 1 project.
+* Queried Single Touch Payroll data using AWS Athena and AWS QuickSight.
+* Wrote and tested SAS codes and data pipelines as part of the ABS’s Big Data Timely Insights (BDTI) Phase 1 project.
 * Obtained [SAS Certified Specialist Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd) and [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1) certifications.
 
 #### Data Entry Clerk | APS3
