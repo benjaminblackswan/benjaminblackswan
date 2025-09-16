@@ -22,7 +22,7 @@ Digital Canberra (Previously ACT Health) | Sep 2024 - Present
 * Liasing, building and maintaining strong relationships with various internal and external stakeholders.
 * Using Jira Software and creating Jira dashboards to monitor tickets and monitor team workloads.
 * Using SharePoint, OneNote and Confluence to create documentations.
-* Passed [Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488) and [Epic Systems Cogito Systems Administrator](https://i.imgur.com/XfkR4xy.jpeg).
+* Obtained [Microsoft Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488) and [Epic Systems Cogito Systems Administration](https://i.imgur.com/XfkR4xy.jpeg) certifications.
 
 #### Senior Data Analyst | ASO5
 ACT Community Services Directorate | Apr 2023 – Sep 2024
@@ -34,13 +34,13 @@ ACT Community Services Directorate | Apr 2023 – Sep 2024
 * Used technologies and languages include Oracle SQL, T-SQL, DAX, Power Query and M, Python, SAP BusinessObjects.
 * Liaised with various stakeholders both internal and external.
 * Led Azure DevOps board for sprint planning.
-* Passed [Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6) and [Oracle Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C).
+* Obtained [Microsoft Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6), [Oracle Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C) and [CAPM](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a) certifications.
 
 #### Data Analyst | APS4
 Australian Bureau of Statistics | Aug 2022 – Apr 2023
 * Contributed to the production of Weekly Payroll Jobs and Wages statistical outputs.
 * Tested SAS codes and data pipelines as part of the ABS’s Big Data Timely Insights (BDTI) Phase 1 project.
-* Passed [SAS Certified Specialist Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd) and [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1).
+* Obtained [SAS Certified Specialist Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd) and [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1) certifications.
 
 #### Data Entry Clerk | APS3
 Australian Competition and Consumer Commission | Apr 2022 – Jun 2022
