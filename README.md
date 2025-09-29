@@ -1,8 +1,11 @@
+[<img width="60" height="233" alt="image" src="https://github.com/user-attachments/assets/08f18a9b-42b9-4026-b815-9ff0568d5ee8" />](https://www.linkedin.com/in/benjaminblackswan/)
+
+
 ## 👋 Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
 
             
-* Ex-ABS 📈 Data Analyst turned 🛢 Database and <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/327867b8-3609-43d7-b7a4-bc992534730b" />
-ETL Administrator for ACT Health/Digital Canberra from 🇦🇺 Canberra, Australia.
+* 🛢 Database and <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/327867b8-3609-43d7-b7a4-bc992534730b" />
+ETL Specialist for ACT Health/Digital Canberra from 🇦🇺 Canberra, Australia.
 * 🏛 Experienced in both Federal and State Government departments.
 * 🕵🏻 AGSVA NV1 Security Clearance Holder
 
