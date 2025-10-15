@@ -6,6 +6,7 @@
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a6753349-a297-4ca0-8fb4-4692aff5912b" />](https://www.strava.com/athletes/93130346)
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9a06f060-3ee7-435c-9693-1ccee3c307f3" />](https://x.com/benblackswan)
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3a8d85c8-137f-41fe-b863-2920e6bdfb89" />](https://leetcode.com/u/benjaminblackswan/)
+[<img width="30" height="215" alt="image" src="https://github.com/user-attachments/assets/4d2d0909-6a72-40ae-9d7a-ead01a1c4255" />](https://www.kaggle.com/benjaminblackswan)
 
 
 
