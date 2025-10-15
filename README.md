@@ -1,4 +1,11 @@
-[<img width="60" height="233" alt="image" src="https://github.com/user-attachments/assets/08f18a9b-42b9-4026-b815-9ff0568d5ee8" />](https://www.linkedin.com/in/benjaminblackswan/)
+[<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/fc641d3e-4ab4-486e-98e6-f411e9d17808" />](https://www.linkedin.com/in/benjaminblackswan/)
+[<img width="68" height="106" alt="image" src="https://github.com/user-attachments/assets/5a180102-cf77-4669-8536-a1fd04f44c0e" />](https://www.youtube.com/@benjaminblackswan)
+[<img width="68" height="105" alt="image" src="https://github.com/user-attachments/assets/b38a53f7-516e-42cb-b408-78cf1ba408b0" />](https://www.instagram.com/benjaminblackswan/)
+[<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/3b08456f-6a83-4649-8f70-a76970dffcb3" />](https://peerlist.io/benja/resume)
+[<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/5b017a1e-2d45-4a41-a5fd-5d3cf15057f9" />](https://app.focusmate.com/user/benjaminblackswan)
+[<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/a6753349-a297-4ca0-8fb4-4692aff5912b" />](https://www.strava.com/athletes/93130346)
+[<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/9a06f060-3ee7-435c-9693-1ccee3c307f3" />](https://x.com/benblackswan)
+[<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/3a8d85c8-137f-41fe-b863-2920e6bdfb89" />](https://leetcode.com/u/benjaminblackswan/)
 
 
 ## 👋 Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
@@ -91,10 +98,6 @@ Australian Competition and Consumer Commission | Apr 2022 – Jun 2022
 Programming Language: T-SQL | Oracle SQL | Python | SAS | DAX | M |<br>
 Human Languages: Chinese (汉语水平考试六级）| Japanese (日本語能力試験N3)
 
-
-## Social Media
-[<img width="105" height="42" alt="image" src="https://github.com/user-attachments/assets/d1c1aed4-9ba0-449b-b6f0-fd29d73859d8" />](https://peerlist.io/benja/resume)
-[<img width="96" height="54" alt="image" src="https://github.com/user-attachments/assets/c31b4c69-9d8f-43ce-bd01-ec159019b9dc" />](https://app.focusmate.com/user/benjaminblackswan) [<img width="103" height="28" alt="image" src="https://github.com/user-attachments/assets/48a22589-ab40-4b7a-942f-48c03cbce5ed" />](https://www.strava.com/athletes/93130346)[<img width="38" height="154" alt="image" src="https://github.com/user-attachments/assets/465297f6-c78e-4ece-b377-b1e15fa0e111" />](https://x.com/benblackswan)[<img width="71" height="143" alt="image" src="https://github.com/user-attachments/assets/0c0b9254-c8a8-4446-93a9-db9a32b65354" />](https://leetcode.com/u/benjaminblackswan/)
 
 
 
