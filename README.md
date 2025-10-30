@@ -9,7 +9,7 @@
 
 
 
-## 👋 Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
+# 👋 Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
 
             
 * 🛢 SQL Server DB Specialist and Epic Cogito Systems admin for ACT Health.
@@ -17,12 +17,12 @@
 * 🕵🏻 AGSVA NV1 Security Clearance Holder
 
 
-## Experiences
+# Experiences
 
-#### Data Engineer | EL1
+### Data Engineer | EL1
 IHACPA | Nov 2025 - Present
 
-####  SQL Server Database Specialist | ASO6
+###  SQL Server Database Specialist | ASO6
 Digital Canberra (Previously ACT Health) | Sep 2024 - Nov 2025
 * Maintaining Cogito ETL and DBA processes for EPIC Systems
 * Maintaining and monitoring Epic Systems Cogito Platform ETL processes from operational databases to DWH.
@@ -37,7 +37,7 @@ Digital Canberra (Previously ACT Health) | Sep 2024 - Nov 2025
 * Using SharePoint, OneNote and Confluence to create documentations.
 * Obtained [Microsoft Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488) and [Epic Systems Cogito Systems Administration](https://i.imgur.com/XfkR4xy.jpeg) certifications.
 
-#### Senior Data Analyst | ASO5
+### Senior Data Analyst | ASO5
 ACT Community Services Directorate | Apr 2023 – Sep 2024
 * Built pipeline to extract data from Datalake into Power BI for visualization using Dataflows and Power Query.
 * Maintained dataflows, semantic models and workspaces in Power BI Service.
@@ -49,23 +49,23 @@ ACT Community Services Directorate | Apr 2023 – Sep 2024
 * Led Azure DevOps board for sprint planning.
 * Obtained [Microsoft Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6), [Oracle Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C) and [CAPM](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a) certifications.
 
-#### Data Analyst | APS4
+### Data Analyst | APS4
 Australian Bureau of Statistics | Aug 2022 – Apr 2023
 * Contributed to the production of Weekly Payroll Jobs and Wages statistical outputs.
 * Queried Single Touch Payroll data using AWS Athena and AWS QuickSight.
 * Wrote and tested SAS codes and data pipelines as part of the ABS’s Big Data Timely Insights (BDTI) Phase 1 project.
 * Obtained [SAS Certified Specialist Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd) and [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1) certifications.
 
-#### Data Entry Clerk | APS3
+### Data Entry Clerk | APS3
 Australian Competition and Consumer Commission | Apr 2022 – Jun 2022
 * Remediated datasets in Microsoft Dynamics for consumer product recalls.
 
-## Education
+# Education
 * [Charles Sturt University, Graduate Certificate in Applied Data Science](https://www.myequals.net/sharelink/b685bd77-3baa-4aec-be40-16c5920776b3/d8b75971-d999-43f9-a4dd-11b531ba1c8b), 2022 GPA 6.5 out of 7
 * ANU, Graduate Certificate in Finance and Actuarial Statistics, 2017
 * Macquarie University, Bachelor of Applied Finance, 2016
 
-## Current Active Certifications
+# Current Active Certifications
 
 ### AWS
 |Issuing Organisation|Credential Name and Link|Exam Code|Date Awarded|Date of Expiration|
@@ -99,7 +99,7 @@ Australian Competition and Consumer Commission | Apr 2022 – Jun 2022
 * Chartered Alternative Investment Analyst Passed CAIA level I
 
 	
-## Skills
+# Skills
 Programming Language: T-SQL | Oracle SQL | Python | SAS | DAX | M |<br>
 Human Languages: Chinese (汉语水平考试六级）| Japanese (日本語能力試験N3)
 
