@@ -19,8 +19,11 @@
 
 ## Experiences
 
+#### Data Engineer | EL1
+IHACPA | Nov 2025 - Present
+
 ####  SQL Server Database Specialist | ASO6
-Digital Canberra (Previously ACT Health) | Sep 2024 - Present
+Digital Canberra (Previously ACT Health) | Sep 2024 - Nov 2025
 * Maintaining Cogito ETL and DBA processes for EPIC Systems
 * Maintaining and monitoring Epic Systems Cogito Platform ETL processes from operational databases to DWH.
 * Maintaining the health of SQL Server databases.
