@@ -70,7 +70,7 @@ Australian Competition and Consumer Commission | Apr 2022 – Jun 2022
 ### AWS
 |Issuing Organisation|Credential Name and Link|Exam Code|Date Awarded|Date of Expiration|
 |-------------|------------|------------|------------|------------|
-|AWS|[AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|[CLF-C02](https://aws.amazon.com/certification/certified-cloud-practitioner/)|2023-01-02|2026-01-01|
+|AWS|[AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|[CLF-C02](https://aws.amazon.com/certification/certified-cloud-practitioner/)|2023-01-02|2028-11-02|
 
 ### Microsoft
 |Issuing Organisation|Credential Name and Link|Exam Code|Date Awarded|Date of Expiration|
