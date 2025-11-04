@@ -1,3 +1,8 @@
+<img width="2097" height="468" alt="image" src="https://github.com/user-attachments/assets/f612e0f7-69e0-4314-b2a4-2c39d59f92e7" />
+
+
+
+
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fc641d3e-4ab4-486e-98e6-f411e9d17808" />](https://www.linkedin.com/in/benjaminblackswan/)<!-- [<img width="30" height="106" alt="image" src="https://github.com/user-attachments/assets/5a180102-cf77-4669-8536-a1fd04f44c0e"/>](https://www.youtube.com/@benjaminblackswan)
 [<img width="30" height="105" alt="image" src="https://github.com/user-attachments/assets/b38a53f7-516e-42cb-b408-78cf1ba408b0" />](https://www.instagram.com/benjaminblackswan/)[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9a06f060-3ee7-435c-9693-1ccee3c307f3" />](https://x.com/benblackswan) -->
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3b08456f-6a83-4649-8f70-a76970dffcb3" />](https://peerlist.io/benja/resume)
@@ -12,15 +17,20 @@
 # 👋 Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
 
             
-* 🛢 SQL Server DB Specialist and Epic Cogito Systems admin for ACT Health.
+* 🛢 AWS Data Engineer at IHACPA.
 * 🏛 Experienced in both Federal and State Government departments.
 * 🕵🏻 AGSVA NV1 Security Clearance Holder
 
 
 # Experiences
 
-### Data Engineer | EL1
+### AWS Data Engineer | EL1
 IHACPA | Nov 2025 - Present
+* Managing IHACPA data collections, ensuring data quality, security, and compliance across acquisition, validation, and reporting.
+* Overseeing automated data submissions and realignments within IHACPA’s secure data management system.
+* Designing and implementing scalable, cloud-based data pipelines and ML workflows meeting performance and governance standards.
+* Leading modernisation of legacy analytics by migrating to cloud-native and Gen AI–enabled platforms.
+* Providing technical guidance and facilitating workshops to support smooth transition and change management.
 
 ###  SQL Server Database Specialist | ASO6
 Digital Canberra (Previously ACT Health) | Sep 2024 - Nov 2025
