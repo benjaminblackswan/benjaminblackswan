@@ -33,7 +33,7 @@ IHACPA | Nov 2025 - Present
 * Providing technical guidance and facilitating workshops to support smooth transition and change management.
 
 ###  SQL Server Database Specialist | ASO6
-Digital Canberra (Previously ACT Health) | Sep 2024 - Nov 2025
+ACT Health | Sep 2024 - Nov 2025
 * Maintaining Cogito ETL and DBA processes for EPIC Systems
 * Maintaining and monitoring Epic Systems Cogito Platform ETL processes from operational databases to DWH.
 * Maintaining the health of SQL Server databases.
