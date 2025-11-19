@@ -23,7 +23,7 @@
 
 # Experiences
 
-### AWS Data Engineer | EL1
+### Data Engineering Manager | EL1
 IHACPA | Nov 2025 - Present
 * Managing IHACPA data collections, ensuring data quality, security, and compliance across acquisition, validation, and reporting.
 * Overseeing automated data submissions and realignments within IHACPA’s secure data management system.
@@ -31,7 +31,7 @@ IHACPA | Nov 2025 - Present
 * Leading modernisation of legacy analytics by migrating to cloud-native and Gen AI–enabled platforms.
 * Providing technical guidance and facilitating workshops to support smooth transition and change management.
 
-###  SQL Server Database Specialist | ASO6
+### Database and ETL Administrator | ASO6
 ACT Health | Sep 2024 - Nov 2025
 * Maintaining Cogito ETL and DBA processes for EPIC Systems
 * Maintaining and monitoring Epic Systems Cogito Platform ETL processes from operational databases to DWH.
