@@ -16,7 +16,7 @@
 # 👋 Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
 
             
-* 🛢 AWS Data Engineer at IHACPA.
+* 🛢 Data Engineering Manager at IHACPA.
 * 🏛 Experienced in both Federal and State Government departments.
 * 🕵🏻 AGSVA NV1 Security Clearance Holder
 
