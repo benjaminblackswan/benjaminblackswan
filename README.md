@@ -5,10 +5,12 @@
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fc641d3e-4ab4-486e-98e6-f411e9d17808" />](https://www.linkedin.com/in/benjaminblackswan/)<!-- [<img width="30" height="106" alt="image" src="https://github.com/user-attachments/assets/5a180102-cf77-4669-8536-a1fd04f44c0e"/>](https://www.youtube.com/@benjaminblackswan)
 [<img width="30" height="105" alt="image" src="https://github.com/user-attachments/assets/b38a53f7-516e-42cb-b408-78cf1ba408b0" />](https://www.instagram.com/benjaminblackswan/)[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9a06f060-3ee7-435c-9693-1ccee3c307f3" />](https://x.com/benblackswan) -->
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3b08456f-6a83-4649-8f70-a76970dffcb3" />](https://peerlist.io/benja/resume)
+[<img width="30" height="140" alt="image" src="https://github.com/user-attachments/assets/455ea56f-05a6-40e6-b71b-8b1e4701051e" />](https://www.instagram.com/benjaminblackswan)
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/5b017a1e-2d45-4a41-a5fd-5d3cf15057f9" />](https://app.focusmate.com/user/benjaminblackswan)
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a6753349-a297-4ca0-8fb4-4692aff5912b" />](https://www.strava.com/athletes/93130346)
 [<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3a8d85c8-137f-41fe-b863-2920e6bdfb89" />](https://leetcode.com/u/benjaminblackswan/)
 [<img width="30" height="215" alt="image" src="https://github.com/user-attachments/assets/4d2d0909-6a72-40ae-9d7a-ead01a1c4255" />](https://www.kaggle.com/benjaminblackswan)
+
 
 
 
