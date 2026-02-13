@@ -26,7 +26,7 @@
 # Experiences
 
 ### Data Engineering Manager | EL1
-IHACPA | Nov 2025 - Present
+IHACPA 📅Nov 2025 - Present 📍Sydney
 * Managing IHACPA data collections, ensuring data quality, security, and compliance across acquisition, validation, and reporting.
 * Overseeing automated data submissions and realignments within IHACPA’s secure data management system.
 * Designing and implementing scalable, cloud-based data pipelines and ML workflows meeting performance and governance standards.
@@ -34,7 +34,7 @@ IHACPA | Nov 2025 - Present
 * Providing technical guidance and facilitating workshops to support smooth transition and change management.
 
 ### Database and ETL Administrator | ASO6
-ACT Health | Sep 2024 - Nov 2025
+ACT Health 📅Sep 2024 - Nov 2025 📍Canberra
 * Maintaining Cogito ETL and DBA processes for EPIC Systems
 * Maintaining and monitoring Epic Systems Cogito Platform ETL processes from operational databases to DWH.
 * Maintaining the health of SQL Server databases.
@@ -49,7 +49,7 @@ ACT Health | Sep 2024 - Nov 2025
 * Obtained [Microsoft Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488) and [Epic Systems Cogito Systems Administration](https://i.imgur.com/XfkR4xy.jpeg) certifications.
 
 ### Senior Data Analyst | ASO5
-ACT Community Services Directorate | Apr 2023 – Sep 2024
+ACT Community Services Directorate 📅Apr 2023 – Sep 2024 📍Canberra
 * Built pipeline to extract data from Datalake into Power BI for visualization using Dataflows and Power Query.
 * Maintained dataflows, semantic models and workspaces in Power BI Service.
 * Automated weekly BAU tasks using Excel and Python.
@@ -61,14 +61,14 @@ ACT Community Services Directorate | Apr 2023 – Sep 2024
 * Obtained [Microsoft Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6), [Oracle Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C) and [CAPM](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a) certifications.
 
 ### Data Analyst | APS4
-Australian Bureau of Statistics | Aug 2022 – Apr 2023
+Australian Bureau of Statistics 📅Aug 2022 – Apr 2023 📍Canberra
 * Contributed to the production of Weekly Payroll Jobs and Wages statistical outputs.
 * Queried Single Touch Payroll data using AWS Athena and AWS QuickSight.
 * Wrote and tested SAS codes and data pipelines as part of the ABS’s Big Data Timely Insights (BDTI) Phase 1 project.
 * Obtained [SAS Certified Specialist Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd) and [AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1) certifications.
 
 ### Data Entry Clerk | APS3
-Australian Competition and Consumer Commission | Apr 2022 – Jun 2022
+Australian Competition and Consumer Commission 📅Apr 2022 – Jun 2022 📍Canberra
 * Remediated datasets in Microsoft Dynamics for consumer product recalls.
 
 # Education
