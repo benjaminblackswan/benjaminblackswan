@@ -36,17 +36,17 @@ IHACPA 📅Nov 2025 - Present 📍Sydney
 
 ### Database and ETL Administrator | ASO6
 ACT Health 📅Sep 2024 - Nov 2025 📍Canberra
-* Maintaining Cogito ETL and DBA processes for EPIC Systems
-* Maintaining and monitoring Epic Systems Cogito Platform ETL processes from operational databases to DWH.
-* Maintaining the health of SQL Server databases.
-* Scripting, running and troubleshooting stored procedures using T-SQL.
-* Maintaining SQL Server ad-hoc database backups and restoring them using SSMS.
+* Maintained Cogito ETL and DBA processes for EPIC Systems
+* Maintained and monitored Epic Systems Cogito Platform ETL processes from operational databases to DWH.
+* Maintained the health of SQL Server databases.
+* Created and troubleshot stored procedures.
+* Maintained SQL Server ad-hoc database backups and restores.
 * Installed SQL Server instances on remote servers through virtual machines.
-* Automating routine maintenance tasks using SQL Agent jobs.
-* Assisting the ACT Health’s Data Capability team with their migration to Microsoft Fabric, including hands-on experience using data factory, Lakehouse and data warehouse.
+* Automated routine maintenance tasks using SQL Agent jobs.
+* Assisted the ACT Health’s Data Capability team with their migration to Microsoft Fabric, including hands-on experience using data factory, Lakehouse and data warehouse.
 * Liasing, building and maintaining strong relationships with various internal and external stakeholders.
-* Using Jira Software and creating Jira dashboards to monitor tickets and monitor team workloads.
-* Using SharePoint, OneNote and Confluence to create documentations.
+* Used Jira and created Jira dashboards to monitor tickets and monitor team workloads.
+* Used SharePoint, OneNote and Confluence to create documentations.
 * Obtained [Microsoft Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488) and [Epic Systems Cogito Systems Administration](https://i.imgur.com/XfkR4xy.jpeg) certifications.
 
 ### Senior Data Analyst | ASO5
