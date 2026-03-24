@@ -17,7 +17,7 @@
 
 
 
-# 👋 Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=blue)
+# 👋 Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=brightgreen)
 
             
 * 🛢 Data Engineering Manager at IHACPA.
