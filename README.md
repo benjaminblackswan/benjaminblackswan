@@ -87,8 +87,8 @@ Australian Competition and Consumer Commission 📅Apr 2022 – Jun 2022 📍Can
 ### Microsoft
 |Issuing Organisation|Credential Name and Link|Exam Code|Date Awarded|Date of Expiration|
 |-------------|------------|------------|------------|------------|
-|Microsoft|[Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488)|[DP-700](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification)|2025-06-22|2026-06-23|
-|Microsoft|[Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|[PL-300](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)|2024-06-09|2026-06-09|
+|Microsoft|[Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488)|[DP-700](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification)|2025-06-22|2027-06-23|
+|Microsoft|[Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|[PL-300](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)|2024-06-09|2027-06-09|
 |Microsoft|[Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/6d9bde1a78ea6758)|PL-900|2024-03-30|Does not expire|
 |Microsoft|[Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c744207c72b92f5)|AI-900|2024-06-19|Does not expire|
 |Microsoft|[Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c3d0edb35c96bcd)|DP-900|2023-07-15|Does not expire|
