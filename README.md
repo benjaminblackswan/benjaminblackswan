@@ -71,7 +71,7 @@ Australian Competition and Consumer Commission 📅Apr 2022 – Jun 2022 📍Can
 * ANU, Graduate Certificate in Finance and Actuarial Statistics, 2017
 * Macquarie University, Bachelor of Applied Finance, 2016
 
-# Current Active Certifications
+# Certifications
 
 ### AWS
 |Issuing Organisation|Credential Name and Link|Exam Code|Date Awarded|Date of Expiration|
@@ -110,7 +110,11 @@ Programming Language: T-SQL | Oracle SQL | Python | SAS | DAX | M |<br>
 Human Languages: Chinese (汉语水平考试六级）| Japanese (日本語能力試験N3)
 
 
-
+## Quantified Self
+|Name|Power BI Link|Inception Year|Status|Youtube Channel|
+|-------------|------------|-------------|------------|------------|
+|Strength Training|[Link](https://app.powerbi.com/view?r=eyJrIjoiODdmZTcxZGUtYzEzOS00MDg1LWEwMjAtODNhNGYzY2UyNGQzIiwidCI6IjM4Zjk1YWI4LWJkYTYtNDg4MC1iMjg0LWMzYWMwMzAyMzgzYSJ9) |2022|Active|[@ben_strength](https://www.youtube.com/@ben_strength)|
+|Gaming|[Link](https://app.powerbi.com/view?r=eyJrIjoiZWYyZGYyOTgtMmE1ZC00MmZlLTkxODUtZTEzMGM3YmM0ZmQ3IiwidCI6IjM4Zjk1YWI4LWJkYTYtNDg4MC1iMjg0LWMzYWMwMzAyMzgzYSJ9)|2021|Active|[@ben_game](https://www.youtube.com/@ben_game)|
 
 
 
