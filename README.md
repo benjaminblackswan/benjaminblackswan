@@ -73,11 +73,8 @@ Australian Competition and Consumer Commission 📅Apr 2022 – Jun 2022 📍Can
 
 # Certifications
 
-### AWS
-|Issuing Organisation|Credential Name and Link|Exam Code|Date Awarded|Date of Expiration|
-|-------------|------------|------------|------------|------------|
-|AWS|[AWS Certified Data Engineer Associate](https://www.credly.com/badges/047824a5-fa73-4ab1-974b-e3e1a1111fa0)|[DEA-C01](https://aws.amazon.com/certification/certified-data-engineer-associate/)|2026-02-23|2029-02-23|
-|AWS|[AWS Certified Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)|[CLF-C02](https://aws.amazon.com/certification/certified-cloud-practitioner/)|2023-01-02|2029-02-23|
+AWS - [Data Engineer Associate](https://www.credly.com/badges/047824a5-fa73-4ab1-974b-e3e1a1111fa0) | [Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1) | [AI Practitioner](https://www.credly.com/badges/3bd27f92-6c83-48c7-9c7b-fafdc1786344)
+
 ### Microsoft
 |Issuing Organisation|Credential Name and Link|Exam Code|Date Awarded|Date of Expiration|
 |-------------|------------|------------|------------|------------|
