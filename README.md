@@ -1,14 +1,3 @@
-<img width="883" height="127" alt="image" src="https://github.com/user-attachments/assets/ae6638dc-f5ef-43eb-b6ff-5b816ab00680" />
-
-[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/fc641d3e-4ab4-486e-98e6-f411e9d17808" />](https://www.linkedin.com/in/benjaminblackswan/)[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/3b08456f-6a83-4649-8f70-a76970dffcb3" />](https://peerlist.io/benja/resume)[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/455ea56f-05a6-40e6-b71b-8b1e4701051e" />](https://www.instagram.com/benjaminblackswan)
-
-
-<!-- [<img width="30" height="106" alt="image" src="https://github.com/user-attachments/assets/5a180102-cf77-4669-8536-a1fd04f44c0e"/>](https://www.youtube.com/@benjaminblackswan)[<img width="30" height="105" alt="image" src="https://github.com/user-attachments/assets/b38a53f7-516e-42cb-b408-78cf1ba408b0" />](https://www.instagram.com/benjaminblackswan/)[<img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9a06f060-3ee7-435c-9693-1ccee3c307f3" />](https://x.com/benblackswan) -->
-
-
-
-
-
 # 👋 Benjamin Blackswan  ![](https://komarev.com/ghpvc/?username=benjaminblackswan&color=brightgreen)
 
             
@@ -71,19 +60,16 @@ Australian Competition and Consumer Commission 📅Apr 2022 – Jun 2022 📍Can
 * ANU, Graduate Certificate in Finance and Actuarial Statistics, 2017
 * Macquarie University, Bachelor of Applied Finance, 2016
 
-# Certifications
+## Certifications
 
-AWS - [Data Engineer Associate](https://www.credly.com/badges/047824a5-fa73-4ab1-974b-e3e1a1111fa0) | [Cloud Practitioner](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1) | [AI Practitioner](https://www.credly.com/badges/3bd27f92-6c83-48c7-9c7b-fafdc1786344)
+AWS - [DEA](https://www.credly.com/badges/047824a5-fa73-4ab1-974b-e3e1a1111fa0) | [CLF](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1) | [AIF](https://www.credly.com/badges/3bd27f92-6c83-48c7-9c7b-fafdc1786344)
 
-### Microsoft
-|Issuing Organisation|Credential Name and Link|Exam Code|Date Awarded|Date of Expiration|
-|-------------|------------|------------|------------|------------|
-|Microsoft|[Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/Ben/5BD50860584A6C01?sharingId=907311E47E585488)|[DP-700](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/?practice-assessment-type=certification)|2025-06-22|2027-06-23|
-|Microsoft|[Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|[PL-300](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification)|2024-06-09|2027-06-10|
-|Microsoft|[Power Platform Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/6d9bde1a78ea6758)|PL-900|2024-03-30|Does not expire|
-|Microsoft|[Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c744207c72b92f5)|AI-900|2024-06-19|Does not expire|
-|Microsoft|[Azure Data Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/7c3d0edb35c96bcd)|DP-900|2023-07-15|Does not expire|
-|Microsoft|[Azure Fundamentals](https://learn.microsoft.com/en-us/users/ben/credentials/245d00390241775d)|AZ-900|2024-01-21|Does not expire|
+Microsoft - [DP700](https://learn.microsoft.com/en-us/users/ben/credentials/5bd50860584a6c01)|
+[PL300](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|
+[PL900](https://learn.microsoft.com/en-us/users/ben/credentials/6d9bde1a78ea6758)|
+[AI900](https://learn.microsoft.com/en-us/users/ben/credentials/7c744207c72b92f5)|
+[DP900](https://learn.microsoft.com/en-us/users/ben/credentials/7c3d0edb35c96bcd)|
+[AZ900](https://learn.microsoft.com/en-us/users/ben/credentials/245d00390241775d)
 
 
 ### Other
@@ -107,7 +93,7 @@ Programming Language: T-SQL | Oracle SQL | Python | SAS | DAX | M |<br>
 Human Languages: Chinese (汉语水平考试六级）| Japanese (日本語能力試験N3)
 
 
-### Quantified Self 量化自我
+### Quantified Self
 |Domain|Power BI Link|No. of Pages|Inception Year|Status|Repository|Youtube Channel|
 |-------------|------------|-------------|------------|------------|------------|------------|
 |Strength Training|[Strength Training Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODdmZTcxZGUtYzEzOS00MDg1LWEwMjAtODNhNGYzY2UyNGQzIiwidCI6IjM4Zjk1YWI4LWJkYTYtNDg4MC1iMjg0LWMzYWMwMzAyMzgzYSJ9) |3|2022|Active|[Link](https://github.com/benjaminblackswan/quantified-self/tree/main/Strength%20Training)|[@ben_strength](https://www.youtube.com/@ben_strength)|
