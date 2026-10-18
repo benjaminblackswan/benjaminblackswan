@@ -62,26 +62,21 @@ Australian Competition and Consumer Commission 📅Apr 2022 – Jun 2022 📍Can
 
 ## Certifications
 
-AWS - [DEA](https://www.credly.com/badges/047824a5-fa73-4ab1-974b-e3e1a1111fa0) | [CLF](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1) | [AIF](https://www.credly.com/badges/3bd27f92-6c83-48c7-9c7b-fafdc1786344)
+AWS - [DEA](https://www.credly.com/badges/047824a5-fa73-4ab1-974b-e3e1a1111fa0)&nbsp;
+      [CLF](https://www.credly.com/badges/0d0ea35d-e7ce-412c-aa1b-109b5d20cfb1)&nbsp;
+	  [AIF](https://www.credly.com/badges/3bd27f92-6c83-48c7-9c7b-fafdc1786344)
 
-Microsoft - [DP700](https://learn.microsoft.com/en-us/users/ben/credentials/5bd50860584a6c01)|
-[PL300](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)|
-[PL900](https://learn.microsoft.com/en-us/users/ben/credentials/6d9bde1a78ea6758)|
-[AI900](https://learn.microsoft.com/en-us/users/ben/credentials/7c744207c72b92f5)|
-[DP900](https://learn.microsoft.com/en-us/users/ben/credentials/7c3d0edb35c96bcd)|
+Microsoft - [DP700](https://learn.microsoft.com/en-us/users/ben/credentials/5bd50860584a6c01)&nbsp;
+[PL300](https://learn.microsoft.com/en-us/users/ben/credentials/d9cccfa80cf0c5b6)&nbsp;
+[PL900](https://learn.microsoft.com/en-us/users/ben/credentials/6d9bde1a78ea6758)&nbsp;
+[AI900](https://learn.microsoft.com/en-us/users/ben/credentials/7c744207c72b92f5)&nbsp;
+[DP900](https://learn.microsoft.com/en-us/users/ben/credentials/7c3d0edb35c96bcd)&nbsp;
 [AZ900](https://learn.microsoft.com/en-us/users/ben/credentials/245d00390241775d)
 
-
-### Other
-|Issuing Organisation|Credential Name and Link|Exam Code|Date Awarded|Date of Expiration|
-|-------------|------------|------------|------------|------------|
-|Oracle|[Oracle Database SQL Certified Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C)|[1Z0-071](https://education.oracle.com/oracle-database-sql/pexam_1Z0-071)|2023-12-29|Does Not Expire|
-|SAS Institute|[SAS Certified Specialist Base Programming](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)|[A00-231](https://www.sas.com/en_gb/certification/credentials/foundation-tools/base-programming-specialist.html)|2022-12-06|Does Not Expire|
-|Databricks|[Databricks Fundamentals](https://credentials.databricks.com/51a82c33-0e4e-461e-8ed8-98a491a0ed34#acc.XoNmS7QR)||2025-03-22|Does not expire|
-|Databricks|[Databricks AI Agents Fundamentals](https://credentials.databricks.com/d5d219fe-a450-4398-8c80-35474aa19a8a#acc.bKCdLGcD)||2025-10-29|Does not expire|
-|Epic Systems|[Cogito Systems Administrator](https://i.imgur.com/XfkR4xy.jpeg)|COG380|2024-12-12|Does not expire|
-|PMI|[Certified Associate in Project Management (CAPM)](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)||2023-07-02|2026-07-02|
-|CFI|[Financial Modeling & Valuation Analyst (FMVA)](https://credentials.corporatefinanceinstitute.com/f32d8e09-8a91-4599-86b6-539622bdee03#acc.5IdE6FTQ)||2020-08-31|Does not expire|
+Other - [1Z0-071](https://catalog-education.oracle.com/ords/certview/sharebadge?id=1CC7EDBCCAD6C783CA6AC33E19B113ED3BA1121AAC068155332CF430EB87017C) &nbsp;
+        [A00-231](https://www.credly.com/badges/98dfa795-4036-4b30-a89f-c374e7bcebfd)&nbsp;
+		[CAPM](https://www.credly.com/badges/3975dc4e-7158-44f3-b116-bdad3b8acd9a)&nbsp;
+		[FMVA](https://credentials.corporatefinanceinstitute.com/f32d8e09-8a91-4599-86b6-539622bdee03#acc.5IdE6FTQ)
 
 **Finance**
 * CFA Passed Level 2 in 2019
